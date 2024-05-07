@@ -5,4 +5,8 @@ function sum1(a,b){
 
     function substract(a,b){
         return a-b;
+       }
+
+       function demo(){
+        return false;
     }
